@@ -1,0 +1,5 @@
+exit
+finger titi
+su toto
+who
+connect machine1
